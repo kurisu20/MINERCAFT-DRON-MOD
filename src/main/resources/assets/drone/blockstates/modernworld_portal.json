@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "drone:block/modernworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "drone:block/modernworld_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "drone:blocks/metal_ore",
+    "up": "drone:blocks/metal_ore",
+    "north": "drone:blocks/metal_ore",
+    "east": "drone:blocks/metal_ore",
+    "south": "drone:blocks/metal_ore",
+    "west": "drone:blocks/metal_ore",
+    "particle": "drone:blocks/metal_ore"
+  }
+}
